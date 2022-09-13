@@ -1,0 +1,15 @@
+body {
+    box-shadow: 20px;
+    padding: 25px;
+    margin: 10px;
+}
+h3 {
+    box-shadow: 10px;
+    padding: 5px;
+    color: aquamarine;
+}
+
+canvas {
+    box-shadow: 15px;
+    padding: 9px;
+}
